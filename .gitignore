@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production builds
+dist/
+build/
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+ENV/
+
+# Local databases and logs
+*.log
+backend/data/guardian.db
+
+# Netlify and Editor files
+.netlify/
+.vscode/
+.idea/
+.DS_Store
