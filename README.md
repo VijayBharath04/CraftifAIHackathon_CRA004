@@ -1,4 +1,7 @@
 # AI GUARDIAN
+
+ Live Preview URL: https://subtle-jelly-f8607b.netlify.app
+ 
 ### Real-Time AI Camera Surveillance and Restricted-Zone Detection System
 
 [![Python 3.14](https://img.shields.io/badge/Python-3.14-blue.svg)](https://www.python.org/)
